@@ -1,0 +1,11 @@
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\obj\Debug\netcoreapp2.0\Lab1Part1.csprojResolveAssemblyReference.cache
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\obj\Debug\netcoreapp2.0\Lab1Part1.csproj.CoreCompileInputs.cache
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\obj\Debug\netcoreapp2.0\Lab1Part1.AssemblyInfoInputs.cache
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\obj\Debug\netcoreapp2.0\Lab1Part1.AssemblyInfo.cs
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\bin\Debug\netcoreapp2.0\Lab1Part1.deps.json
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\bin\Debug\netcoreapp2.0\Lab1Part1.runtimeconfig.json
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\bin\Debug\netcoreapp2.0\Lab1Part1.runtimeconfig.dev.json
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\bin\Debug\netcoreapp2.0\Lab1Part1.dll
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\bin\Debug\netcoreapp2.0\Lab1Part1.pdb
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\obj\Debug\netcoreapp2.0\Lab1Part1.dll
+C:\Users\HavenhurstTech1\Documents\Grand Circus\Meridian\Lab1Part1\Lab1Part1\Lab1Part1\obj\Debug\netcoreapp2.0\Lab1Part1.pdb
